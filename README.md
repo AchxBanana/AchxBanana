@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Achi
 ============================================================================================================================
 
-I'm Robotic Engineer And Computer Science
+I'm Robotics Engineer And Computer Science
 ------------------------------------------
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [achxpj@gmail.com](mailto:achxpj@gmail.com)
-* 🚀  I'm currently working on [PotisarnPitthayakorn\_School](http://ps.ac.th)
+* 🚀  I'm currently students of [PotisarnPitthayakorn\_School](http://ps.ac.th)
 * 🧠  I'm learning Web Dev
 * ⚡  I'm actually in love with Robot very much Cuz It's have more things to do with it and that I love :3
 
